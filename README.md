@@ -19,7 +19,9 @@ Various models, including Linear Regression, Lasso, Ridge Regression, and Elasti
 **Exploratory Data Analysis**
 
 **A. Number of Users Each Month (Jan, Feb, March, April)*
-![Image Description]()
+![Image Description](https://github.com/modidimple/gw-rml-assignment/blob/main/1.png)
+
+![Image Description](https://github.com/modidimple/)
 
 **Observation**
 Based on the pickup and drop-off counts, it can be inferred that "21st & 1st St. NW" has more users compared to "21st St & Pennsylvania Ave NW." The pickup and drop-off ranges for "21st & 1st St. NW" are between 2 and 70, while for "21st St & Pennsylvania Ave NW" it is between 2 and 38. The demand for bikes gradually increased from January to April, which can be attributed to improved weather conditions.
