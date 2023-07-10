@@ -38,9 +38,13 @@ Considering the higher demand at "21st & 1st St. NW," allocating more bikes to t
 
 **B. Bike Utilization on Hourly Basis (Pick-up and Drop-off Counts for Jan., Feb., March, April)**
 
-![Image Description](https://github.com/modidimple/gw-rml-assignment/blob/main/21st%20%26%201st%20St.%20NW%20bike_Utiliztion.png)
+- 21st & 1st St. NW 
 
-![Image Description](https://github.com/modidimple/)
+![Image Description](https://github.com/modidimple/gw-rml-assignment/blob/main/21st%20%26%201st%20St.%20NW%20bike_Utiliztion.png)
+- 21st St & Pennsylvania Ave NW
+
+![Image Description](https://github.com/modidimple/gw-rml-assignment/blob/main/21st%20St%20%26%20Pennsylvania%20Ave%20NW_utilization.jpg)
+
 **Observation**
 
 Both stations experience significant drop-offs during early hours (06:00 to 12:00), while the pickup count gains momentum during the afternoon (13:00 to 17:00) at both stations. "21st & 1st St. NW" shows higher pick-up and drop-off counts, indicating it is busier than "21st St & Pennsylvania Ave NW."
