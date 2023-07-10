@@ -38,7 +38,7 @@ Considering the higher demand at "21st & 1st St. NW," allocating more bikes to t
 
 **B. Bike Utilization on Hourly Basis (Pick-up and Drop-off Counts for Jan., Feb., March, April)**
 
-![Image Description](https://github.com/modidimple/gw-rml-assignment/blob/main/1.png)
+![Image Description](https://github.com/modidimple/gw-rml-assignment/blob/main/21st%20%26%201st%20St.%20NW%20bike_Utiliztion.png)
 
 
 **Observation**
