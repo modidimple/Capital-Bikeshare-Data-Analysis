@@ -18,8 +18,14 @@ Various models, including Linear Regression, Lasso, Ridge Regression, and Elasti
 
 **Exploratory Data Analysis**
 
-**A. Number of Users Each Month (Jan, Feb, March, April)*
+**A. Number of Users Each Month (Jan, Feb, March, April)**
+
+- 21st & 1st St. NW 
+
 ![Image Description](https://github.com/modidimple/gw-rml-assignment/blob/main/1.png)
+
+
+- 21st St & Pennsylvania Ave NW
 
 ![Image Description](https://github.com/modidimple/gw-rml-assignment/blob/main/21st%20St%20%26%20Pennsylvania%20Ave%20NW.png)
 
@@ -31,6 +37,8 @@ Based on the pickup and drop-off counts, it can be inferred that "21st & 1st St.
 Considering the higher demand at "21st & 1st St. NW," allocating more bikes to this station would be beneficial. For instance, on April 18, 2022, there were around 20 pickups and 38 drop-offs at "21st & 1st St. NW," compared to 5 pickups and 6 drop-offs at "21st St & Pennsylvania Ave NW." Allocating approximately 10 bikes to "21st St & Pennsylvania Ave NW" and the remaining 30 bikes to "21st & 1st St. NW" would be an initial allocation strategy. However, additional factors such as weather data and advanced models should be considered for a more informed decision.
 
 **B. Bike Utilization on Hourly Basis (Pick-up and Drop-off Counts for Jan., Feb., March, April)**
+
+![Image Description](https://github.com/modidimple/gw-rml-assignment/blob/main/1.png)
 
 
 **Observation**
