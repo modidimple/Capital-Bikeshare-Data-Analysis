@@ -81,12 +81,12 @@ Based on the MSE values, the Lasso model was selected to predict the total pick-
 
 **Recommendation**
 Based on the above result we can allocate 20 more bikes at ‘21st & 1st St. NW’
-as the pick-up demand is high in this staHon and on a safer side, we should account for any
-uncertainHes in bike demand. At 21st&Pennsylvania Ave, we should allocate around 5-8 more bikes as
-the pick-up demand is relaHvely less. The drop-off is more at this staHon so focus should be to make
-the docks available for the riders. So, with regular bike rebalancing we will maintain opHmum service
-level at these staHons and meet the demand of bikes. This commensurate with the assumpHon we
-made at the starHng of the project (the total number of spots available at both the staHons are 50(25
+as the pick-up demand is high in this  station  and on a safer side, we should account for any
+uncertainties in bike demand. At 21st&Pennsylvania Ave, we should allocate around 5-8 more bikes as
+the pick-up demand is relatively less. The drop-off is more at this station so focus should be to make
+the docks available for the riders. So, with regular bike rebalancing we will maintain optimum service
+level at these staHons and meet the demand of bikes. This commensurate with the assumption we
+made at the starting of the project (the total number of spots available at both the station are 50(25
 – 25 each), maximum number of bikes available are 40, and rest 10 are docked)
 
 **Limitation**
