@@ -85,7 +85,7 @@ as the pick-up demand is high in this  station  and on a safer side, we shoul
 uncertainties in bike demand. At 21st&Pennsylvania Ave, we should allocate around 5-8 more bikes as
 the pick-up demand is relatively less. The drop-off is more at this station so focus should be to make
 the docks available for the riders. So, with regular bike rebalancing we will maintain optimum service
-level at these staHons and meet the demand of bikes. This commensurate with the assumption we
+level at these station and meet the demand of bikes. This commensurate with the assumption we
 made at the starting of the project (the total number of spots available at both the station are 50(25
 – 25 each), maximum number of bikes available are 40, and rest 10 are docked)
 
