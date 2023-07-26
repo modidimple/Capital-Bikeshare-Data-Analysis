@@ -91,7 +91,7 @@ made at the starting of the project (the total number of spots available at both
 
 **Limitation**
 
-- The data under study was small i.e only four months. So, the predicHon may not be
+- The data under study was small i.e only four months. So, the prediction may not be
 - The analysis was based on a small dataset, covering only four months. Consequently, the predictions may not be highly accurate.
 - The analysis focused primarily on weather patterns, and other uncertainties were not considered.
 - The suggested bike rebalancing is a basic approach, and additional factors such as demand variations throughout the day and sudden weather changes should be taken into account for more - precise and dynamic rebalancing strategies.
